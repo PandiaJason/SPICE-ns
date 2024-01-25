@@ -1,9 +1,9 @@
 # SPICE-ns - An Extension for ns-3 to Simulate DSN and DTN 
 
-**Note:** The code and information presented in this document are currently under development and are not ready for public distribution. This is a work in progress, and certain features may not be fully implemented or tested. Any use or distribution of the code is discouraged until an official release is made.
+**Note:** The code and information presented in this document are currently under development and are not ready for public distribution. This is a work in progress.
 
 ## Declaration
-We are actively processing an application for getting grant to support the future development of SPICE-ns. Consequently, the source code for SPICE-ns, inclusive of the grantor's affiliation, will soon be made accessible on GitHub
+We are actively processing an application for getting grant to support the future development of SPICE-ns. Consequently, the source code for SPICE-ns, inclusive of the grantor's affiliation, will soon be made accessible on this page.
 
 # Long-term Goal
 
