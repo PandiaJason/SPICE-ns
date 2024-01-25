@@ -15,16 +15,16 @@ In the future, we plan to incrementally implement other aspects necessary to sim
 
 ## SPICE-ns Modules
 
-- antenna
-- applications
-- energy
-- mac
-- network
-- obstacle-model
-- phy
-- propagation
-- spectrum
-- visualization
+- SPICE-antenna
+- SPICE-applications
+- SPICE-energy
+- SPICE-mac
+- SPICE-network
+- SPICE-obstacle-model
+- SPICE-phy
+- SPICE-propagation
+- SPICE-spectrum
+- SPICE-visualization
 
 ## Project Status
 
