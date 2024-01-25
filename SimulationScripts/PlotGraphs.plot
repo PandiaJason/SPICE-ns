@@ -1,5 +1,5 @@
 ###############################################################################
-# The Shell Script developed for the Research work on
+# The GNUplot Script developed for the Research work on
 #
 #     Design and Implementation of Novel Protocols for Deep Space Network 
 #            Using SPICE Toolkit and Kernels Under ns-3

@@ -1,6 +1,5 @@
 /////////////////////////////////////////////////////////////////////////////////////////////
-// This Simulation is Prepared for WNS3-2024 Conference Paper
-// "A Novel, Realistic Mobility Model for Deep Space Network Simulations Under ns-3"
+// The SPICE-ns DSN Network Simulation Extention developed for the research work on
 //
 //     Design and Implementation of Novel Protocols for Deep Space Network 
 //            Using SPICE Toolkit and Kernels Under ns-3
@@ -17,13 +16,10 @@
 // This project uses binary version of NASA/NAIF's SPICE tool kit and
 // Some of the Text and Binary version of SPICE Kernels/Data
 /////////////////////////////////////////////////////////////////////////////////////////////
-#include "spice-mobility-model.h"
-#include "ns3/SPICE-ns.h"
-
-using namespace NASA_SPICE;
-SPICE_NS spice;
+// SPICE-ns.h
 
 
-....
 
-// Will be published later
+// Sorry
+
+// This part of the code will be published after getting approval from the Grantor

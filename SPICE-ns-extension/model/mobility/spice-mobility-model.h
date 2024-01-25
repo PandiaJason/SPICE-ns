@@ -25,7 +25,13 @@
 
 #include "ns3/mobility-model.h"
 #include "ns3/constant-velocity-helper.h"
+#include "cspice/SpiceUsr.h"  // Include SPICE toolkit header - should be kept under any directory which is in include path
 
-....
+#include "ns3/event-id.h"
+#include "ns3/object.h"
 
-// Will be published later
+
+
+// Sorry
+
+// This part of the code will be published after getting approval from the Grantor

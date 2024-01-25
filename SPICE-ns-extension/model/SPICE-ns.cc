@@ -16,8 +16,12 @@
 // This project uses binary version of NASA/NAIF's SPICE tool kit and
 // Some of the Text and Binary version of SPICE Kernels/Data
 /////////////////////////////////////////////////////////////////////////////////////////////
-// SPICE-ns.h
+#include "SPICE-ns.h"
+#include <iostream>
 
-....
 
-// Will be published later
+
+
+// Sorry
+
+// This part of the code will be published after getting approval from the Grantor
