@@ -1,5 +1,10 @@
 # 📡 SPICE-ns - An Extension for ns-3 to Simulate DSN and DTN
 
+- 🌐 Idealized the Proof of Concept for integrating CSPICE with ns3.
+- ✅ Successfully Integrated CSPICE under ns3.
+- 🚀 Developed an Accurate Deep Space Mobility Model under ns3 with SPICE-ns.
+- 🚧 SPICE-ns is under development, an extension for ns3 that supports various aspects of deep space network simulations.
+
 ### 🚧 Note 
 The code and information presented in this document are currently under development and are not ready for public distribution. This is a work in progress, and certain features may not be fully implemented or tested. Any use or distribution of the code is discouraged until an official release is made.
 
