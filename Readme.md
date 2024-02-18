@@ -1,3 +1,4 @@
+![image](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/ccc75658-b665-4c3f-a8fe-c60ff24cefd8)
 # 📡 SPICE-ns - An Extension for ns-3 to Simulate DSN and DTN
 
 - 🌐 Idealized the Proof of Concept for integrating CSPICE with ns3.
@@ -6,7 +7,6 @@
 - ✅ Developed an Accurate Deep Space Mobility Model under ns3 with SPICE-ns.
 - 🚀 As a first step, we have successfully implemented a mobility model for SPICE-ns and a paper is proposed to be presented at WNS3, Spain 2024.
 
-![image](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/ccc75658-b665-4c3f-a8fe-c60ff24cefd8)
 
 ### 🚧 Note 
 The code and information presented in this document are currently under development and are not ready for public distribution. This is a work in progress, and certain features may not be fully implemented or tested. Any use or distribution of the code is discouraged until an official release is made.
