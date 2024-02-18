@@ -24,17 +24,18 @@ The long-term goal of this project is to develop a complete extension called 'SP
 In the future, we plan to incrementally implement other aspects necessary to simulate a complete DSN/DTN.
 
 ### 🧩 SPICE-ns Modules 
-
-- SPICE-antenna
-- SPICE-applications
-- SPICE-energy
-- SPICE-mac
-- SPICE-network
-- SPICE-obstacle-model
-- SPICE-phy
-- SPICE-propagation
-- SPICE-spectrum
-- SPICE-visualization
+- ✅ SPICE-ns Mobility Model
+- ⌛ SPICE-antenna
+- ⌛ SPICE-antenna
+- ⌛ SPICE-applications
+- ⌛ SPICE-energy
+- ⌛ SPICE-mac
+- ⌛ SPICE-network
+- ⌛ SPICE-obstacle-model
+- ⌛ SPICE-phy
+- ⌛ SPICE-propagation
+- ⌛ SPICE-spectrum
+- ✅ SPICE-visualization
 
 ### 🚀 Project Status 
 
