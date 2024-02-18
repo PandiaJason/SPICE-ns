@@ -5,7 +5,8 @@
 - 🚀 Developed an Accurate Deep Space Mobility Model under ns3 with SPICE-ns.
 - 🚧 SPICE-ns is under development, an extension for ns3 that supports various aspects of deep space network simulations.
 
-![image](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/2493e30d-5726-4dd2-940d-3a26d37eea5f)
+[SPICE_ns](https://github.com/PandiaJason/SPICE-ns-Project/blob/main/SPICE_ns_Flyer.pdf)
+
 
 
 ### 🚧 Note 
