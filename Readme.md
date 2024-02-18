@@ -8,7 +8,6 @@
 [SPICE_ns](https://github.com/PandiaJason/SPICE-ns-Project/blob/main/SPICE_ns_Flyer.pdf)
 
 
-
 ### 🚧 Note 
 The code and information presented in this document are currently under development and are not ready for public distribution. This is a work in progress, and certain features may not be fully implemented or tested. Any use or distribution of the code is discouraged until an official release is made.
 
