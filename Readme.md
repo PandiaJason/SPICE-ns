@@ -1,6 +1,6 @@
-# 📡 SPICE-ns - An Extension for ns-3 to Simulate DSN and DTN
-
 ![SPICE ns](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/e1cea1ad-f38b-433a-86b2-d0d29062d265)
+
+# 📡 SPICE-ns - An Extension for ns-3 to Simulate DSN and DTN
 
 
 - 🌐 Idealized the Proof of Concept for integrating CSPICE with ns3.
