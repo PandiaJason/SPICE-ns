@@ -1,4 +1,4 @@
-![GitHub Header Image](https://raw.githubusercontent.com/PandiaJason/SPICE-ns-Project/assets/100123063/d2ea48a4-475a-4828-a31e-86058b19518b)
+![github-header-image](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/eb9d6a10-7491-45c6-a8f6-1dbb78f8f029)
 
 
 # 📡 SPICE-ns - An Extension for ns-3 to Simulate DSN and DTN
