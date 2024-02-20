@@ -30,16 +30,16 @@ In the future, we plan to incrementally implement other aspects necessary to sim
 ## 🌐 SPICE-ns Modules  OSI Model
 
 ### 1. Application Layer (Layer 7)
-   - ✅ SPICE-visualization
+   - ✅ SPICE-ns
 
 ### 2. Presentation Layer (Layer 6)
    - ⌛ SPICE-RTOS
 
 ### 3. Session Layer (Layer 5)
-  - ⌛ SPICE-DTN
+  - ⌛ SPICE-DSN
 
 ### 4. Transport Layer (Layer 4)
-   - ⌛ SPICE-DTN
+  - ⌛ SPICE-DSN
 
 ### 5. Network Layer (Layer 3)
    - ⌛ SPICE-network
@@ -53,6 +53,10 @@ In the future, we plan to incrementally implement other aspects necessary to sim
    - ⌛ SPICE-antenna
 
 ### 7. Physical Layer (Layer 1)
+   - ⌛ SPICE-instruments
+   
+### Others
+   
    - ✅ SPICE-ns Mobility Model
    - ⌛ SPICE-energy
 
