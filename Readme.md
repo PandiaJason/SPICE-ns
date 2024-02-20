@@ -27,40 +27,21 @@ The long-term goal of this project is to develop a complete extension called 'SP
 
 In the future, we plan to incrementally implement other aspects necessary to simulate a complete DSN/DTN.
 
-## 🌐 SPICE-ns Modules  OSI Model
-
-### 1. Application Layer (Layer 7)
-   - ✅ SPICE-ns
-
-### 2. Presentation Layer (Layer 6)
-   - ⌛ SPICE-RTOS
-
-### 3. Session Layer (Layer 5)
-  - ⌛ SPICE-DSN
-
-### 4. Transport Layer (Layer 4)
-  - ⌛ SPICE-DSN
-
-### 5. Network Layer (Layer 3)
-   - ⌛ SPICE-network
-   - ⌛ SPICE-propagation
-   - ⌛ SPICE-obstacle-model
-
-### 6. Data Link Layer (Layer 2)
-   - ⌛ SPICE-phy
-   - ⌛ SPICE-mac
-   - ⌛ SPICE-spectrum
-   - ⌛ SPICE-antenna
-
-### 7. Physical Layer (Layer 1)
-   - ⌛ SPICE-instruments
+## 🌐 SPICE-ns Modules 
+ 
+- ⌛ SPICE-applications
+- ⌛ SPICE-DSN Data Traffic Generator
+- ⌛ SPICE-network
+- ⌛ SPICE-phy
+- ⌛ SPICE-mac
+- ⌛ SPICE-spectrum
+- ⌛ SPICE-antenna
+- ⌛ SPICE-propagation
+- ⌛ SPICE-obstacle-model
+- ✅  SPICE-ns Mobility Model
+- ⌛ SPICE-energy
+- ✅ SPICE-visualization
    
-### Others
-   
-   - ✅ SPICE-ns Mobility Model
-   - ⌛ SPICE-energy
-
-
 ### 🚀 Project Status 
 
 As a first step, we have successfully implemented a mobility model for SPICE-ns.
