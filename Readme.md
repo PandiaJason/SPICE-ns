@@ -12,7 +12,7 @@ SPICE-ns is a modular extension for deep space networks simulation under Network
 
 ## 🔥 Motivation for SPICE-ns Contribution
 
-SPICE, developed by NAIF/NASA, is extensively utilized in various space organizations such as ISRO and ESA. It serves diverse purposes, including spacecraft and satellite mission planning, astrodynamics analysis, and deep space network studies. SPICE has played a pivotal role in SPICE enhanced Cosmosphia, widely adopted tool across the space organizations.
+SPICE, developed by NAIF/NASA, is extensively utilized in various space organizations such as ISRO and ESA. It serves diverse purposes, including spacecraft and satellite mission planning, astrodynamics analysis, and deep space network studies. SPICE have been planning a majar role in the development of SPICE enhanced Cosmosphia, widely adopted toolkit across the space organizations.
 
 In terms of network aspects, these organizations rely on in-house software sollutions. Projects like DTNDevKit2.0's CORE provide network and visualization for deep space network simulations. The limitations in simulating natural astrodynamics, particualry(For Example: Not handling Mobility in natual way) within DTNDevKit2.0 CORE. And the closed nature of other existing deep space network simulation environments serve as motivation for us to contribute to SPICE-ns under ns3. Our goal is to enhance deep space network stack and simulation aspects with the integration of SPICE, providing a more comprehensive solution.
 
