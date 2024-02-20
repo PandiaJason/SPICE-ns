@@ -12,6 +12,8 @@
 
 ![image](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/ccc75658-b665-4c3f-a8fe-c60ff24cefd8)
 
+## About SPICE ns
+SPICE ns is a deep space networks simulation extension toolkit developed under Network Simulator 3 (ns3). SPICE is a Space Geometrical Data Modular toolkit containing Spacecraft, Planet, Instrument, C-matrix, and Events (SPICE). It serves as the interspace standard for Space Research and Mathematical Observations. SPICE's use cases extend from mission concept development through post-mission data analysis. Additionally, SPICE is utilized in various networking tasks, such as Deep Space Network scheduling and communications. It is a suitable framework for building a fully-fledged deep space networks simulation.
 
 ### 🚧 Note 
 The code and information presented in this document are currently under development and are not ready for public distribution. This is a work in progress, and certain features may not be fully implemented or tested. Any use or distribution of the code is discouraged until an official release is made.
@@ -29,18 +31,19 @@ In the future, we plan to incrementally implement other aspects necessary to sim
 
 ## 🌐 SPICE-ns Modules 
  
-- ⌛ SPICE-applications
-- ⌛ SPICE-DSN Data Traffic Generator
-- ⌛ SPICE-network
-- ⌛ SPICE-phy
-- ⌛ SPICE-mac
-- ⌛ SPICE-spectrum
-- ⌛ SPICE-antenna
-- ⌛ SPICE-propagation
-- ⌛ SPICE-obstacle-model
-- ✅  SPICE-ns Mobility Model
-- ⌛ SPICE-energy
-- ✅ SPICE-visualization
+- ⌛ SPICE-ns Application Models,
+- ⌛ SPICE-ns DSN Data Traffic Generator,
+- ⌛ SPICE-ns Network Layer Modelling
+- ⌛ SPICE-ns Phy Model
+- ⌛ SPICE-ns MAC Model
+- ⌛ SPICE-ns Spectrum Model
+- ⌛ SPICE-ns Antenna Model
+- ⌛ SPICE-ns Propagation Model
+- ⌛ SPICE-ns Obstacle Model
+- ✅ SPICE-ns Mobility Model
+- ⌛ SPICE-ns Energy Model
+- ✅ SPICE-ns Visualization Tools
+
    
 ### 🚀 Project Status 
 
