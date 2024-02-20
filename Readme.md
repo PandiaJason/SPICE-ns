@@ -11,7 +11,7 @@
 - 🚀 As a first step, we have successfully implemented a mobility model for SPICE-ns and a paper is proposed to be presented at WNS3, Spain 2024.
 
 ## 📡 About SPICE ns
-SPICE ns is a modular toolkit/extension for deep space networks simulation under Network Simulator 3 (ns3). It includes NAIF/NASA's space geometrical data modular toolkit called Spacecraft, Planet, Instrument, C-matrix, Events (SPICE) under ns3. Serving Deep Space Networking, Planning and Mathematical Observations. In general SPICE finds applications from mission concept development to post-mission data analysis. With SPICE ns, it can perform various deep space networking tasks, deep space network scheduling, space packet loss tests, network path finding/planning, and network cost analysis through its simulations.
+SPICE ns is a modular extension for deep space networks simulation under Network Simulator 3 (ns3). It uses NAIF/NASA's space geometrical data modular toolkit Spacecraft, Planet, Instrument, C-matrix, Events (SPICE)  for astrodynamics, position, velocity, dimensions of the celestial objects. Serving Deep Space Networking, Planning and Mathematical Observations. In general SPICE finds applications from mission concept development to post-mission data analysis. With SPICE ns, it can perform various deep space networking tasks, deep space network scheduling, space packet loss tests, network path finding/planning, and network cost analysis through its simulations.
 
 ![image](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/ccc75658-b665-4c3f-a8fe-c60ff24cefd8)
 
