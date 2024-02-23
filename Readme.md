@@ -18,6 +18,8 @@ In terms of network aspects, these organizations rely on in-house software sollu
 
 It is possible to implement the existing as well as new algorithms almost in all the layers of the DSN communication protocol stack. It means it is possible to implement the existing protocols of DSN protocol stack under SPICE-ns framework. In addition to that, for example, it is possible to implement a new, state-of-the-art antenna model and mac layer protocol and hence can develop a few innovative, patentable ideas and protocol designs.
 
+AI/ML/DL/YOLO based Algorithms can be developed for Autamamted Spacecraft/Rover navigation systems.
+
 ![image](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/ccc75658-b665-4c3f-a8fe-c60ff24cefd8)
 
 ### 🚧 Note 
