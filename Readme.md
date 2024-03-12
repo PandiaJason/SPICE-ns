@@ -6,6 +6,9 @@
 - ✅ Developed an Accurate Deep Space Mobility Model under ns3 with SPICE-ns.
 - 🚀 As a first step, we have successfully implemented a mobility model for SPICE-ns and a paper is proposed to be presented at WNS3, Spain 2024.
 
+  ![WNS3_SPICE_NS_page-0001](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/a45ed4dc-9220-412f-987b-c8e3a3bf7a90)
+
+
 ## 📡 About SPICE-ns
 SPICE-ns is a modular extension for deep space networks simulation under Network Simulator 3 (ns3). It uses NAIF/NASA's space geometrical data modular toolkit Spacecraft, Planet, Instrument, C-matrix, Events (SPICE)  for modeling astrodynamics of natural and artifical satilites and spacecrafts. In general SPICE finds applications from mission concept development to post-mission data analysis in a realisitic simulated enviornment. With SPICE-ns, it can perform various deep space networking tasks, deep space network scheduling, space packet loss tests, network path finding/planning, and network cost analysis through its simulations.
 
@@ -20,7 +23,6 @@ It is possible to implement the existing as well as new algorithms almost in all
 
 AI/ML/DL/YOLO based Algorithms can be developed for Autamamted Spacecraft/Rover navigation systems.
 
-![image](![WNS3_SPICE_NS_page-0001](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/42471afa-a5e7-47c4-915c-bd68ea0f6690))
 ![image](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/ccc75658-b665-4c3f-a8fe-c60ff24cefd8)
 
 ### 🚧 Note 
