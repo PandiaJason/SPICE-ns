@@ -35,6 +35,6 @@ The script generates a 3D plot showing the trajectories of the specified celesti
 
 
 ## References
-- SPICE-ns Project (https://github.com/PandiaJason/SPICE-ns-Project/tree/main)
+- SPICE-ns Project: https://github.com/PandiaJason/SPICE-ns-Project/tree/main
 - SPICE Toolkit: https://naif.jpl.nasa.gov/naif/toolkit.html
 - ns-3: https://www.nsnam.org/
