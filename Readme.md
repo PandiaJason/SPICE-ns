@@ -26,7 +26,7 @@ AI/ML/DL/YOLO based Algorithms can be developed for Autamamted Spacecraft/Rover 
 
 ### 📊 Try Our ns3 Traces of SPICE-ns
 
-- **SimulationScripts:** This directory contains the simulation scripts used to generate mobility traces for celestial bodies within the solar system using SPICE-ns integrated with ns-3.
+- **Outputs:** This directory contains the simulation scripts used to generate mobility traces for celestial bodies within the solar system using SPICE-ns integrated with ns-3.
 
 #### How to Use
 
@@ -35,7 +35,7 @@ AI/ML/DL/YOLO based Algorithms can be developed for Autamamted Spacecraft/Rover 
     git clone https://github.com/PandiaJason/SPICE-ns-Project.git
     ```
 
-2. Navigate to the ["SimulationScripts"](https://github.com/PandiaJason/SPICE-ns-Project/tree/main/SimulationScripts) directory to access the simulation scripts.
+2. Navigate to the ["Outputs"](https://github.com/PandiaJason/SPICE-ns-Project/tree/main/Outputs) directory to access the simulation scripts.
 
 3. Explore the scripts and data files to understand how the mobility traces are generated and utilized within ns-3 simulations.
 
@@ -46,7 +46,7 @@ AI/ML/DL/YOLO based Algorithms can be developed for Autamamted Spacecraft/Rover 
 ### 🚧 Note 
 The code and information presented in this document are currently under development and are not ready for public distribution. This is a work in progress, and certain features may not be fully implemented or tested. Any use or distribution of the code is discouraged until an official release is made.
 
-📊 Meantime, one can check some of the preliminary results in "Outputs" Folder.
+📊 Meantime, one can check some of the preliminary results in ["Outputs"](https://github.com/PandiaJason/SPICE-ns-Project/tree/main/Outputs) Folder.
 
 ### 📜 Declaration
 We are actively processing an application for getting grant to support the future development of SPICE-ns. Consequently, the source code for SPICE-ns, inclusive of the grantor's affiliation, will soon be made accessible on this page.
