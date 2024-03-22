@@ -6,7 +6,7 @@
 # 
 # Developed by :           Jason Pandian,(pandiajason@gmail.com)
 #                          Assistant Professor, Department of Computer Science and Engineering,
-#                          Tamilnadu College of Engineering, Coimbatore.
+#                          Nehru Institute of Technology, Coimbatore.
 #                          Affiliated to Anna University, Chennai,
 #                          India.
 # 
