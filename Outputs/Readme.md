@@ -23,6 +23,7 @@ This Python script is designed to visualize the mobility traces of celestial bod
 
 ## Description
 - The script reads mobility trace data from the "SPICE-ns-3-Mobility-Trace.mob" file.
+- ![TraceFile](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/8445fc22-ebf1-4ebe-a373-ed37fc423452)
 - It then extracts XYZ coordinates for the specified celestial bodies from the data.
 - The extracted coordinates are plotted in a 3D space, with each celestial body represented by a different color.
 - The plot includes a legend indicating the names of the celestial bodies.
