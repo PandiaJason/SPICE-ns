@@ -23,7 +23,7 @@ SPICE-ns is a modular extension for deep space networks simulation under Network
     git clone https://github.com/PandiaJason/SPICE-ns-Project.git
     ```
 
-2. Navigate to the "SimulationScripts" directory to access the simulation scripts.
+2. Navigate to the ["SimulationScripts"](https://github.com/PandiaJason/SPICE-ns-Project/tree/main/SimulationScripts) directory to access the simulation scripts.
 
 3. Explore the scripts and data files to understand how the mobility traces are generated and utilized within ns-3 simulations.
 
