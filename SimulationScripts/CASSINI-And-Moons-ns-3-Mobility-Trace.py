@@ -5,10 +5,10 @@
 #            Using SPICE Toolkit and Kernels Under ns-3
 # 
 # Developed by :           Jason Pandian,(pandiajason@gmail.com)
-#                          Assistant Professor, Department of Computer Science and Engineering,
-#                          Nehru Institute of Technology, Coimbatore.
-#                          Affiliated to Anna University, Chennai,
+#                          Assistant Professor, Department of Information and Technology,
+#                          Nehru Institute of Technology, Coimbatore,
 #                          India.
+# 
 # 
 # 
 # Declaration"
