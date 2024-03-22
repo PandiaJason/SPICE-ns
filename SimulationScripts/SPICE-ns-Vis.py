@@ -1,3 +1,20 @@
+###############################################################################
+# The Python Script developed for the Research work on
+#
+#     Design and Implementation of Novel Protocols for Deep Space Network 
+#            Using SPICE Toolkit and Kernels Under ns-3
+# 
+# Developed by :           Jason Pandian,(pandiajason@gmail.com)
+#                          Assistant Professor, Department of Information and Technology,
+#                          Nehru Institute of Technology, Coimbatore,
+#                          India.
+# 
+# 
+# Declaration"
+# This project uses binary version of NASA/NAIF's SPICE tool kit and
+# Some of the Text and Binary version of SPICE Kernels/Data
+###############################################################################
+#!/bin/python
 import os
 import numpy as np
 import matplotlib.pyplot as plt
