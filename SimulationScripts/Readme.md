@@ -6,7 +6,6 @@ This Python script is designed to visualize the mobility traces of celestial bod
 
 ## Prerequisites
 - Python 3.x
-- NumPy
 - Matplotlib
 
 ## Usage
