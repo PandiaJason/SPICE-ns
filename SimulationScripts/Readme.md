@@ -20,7 +20,7 @@ This Python script is designed to visualize the mobility traces of celestial bod
     python SPICE-ns-Vis.py
     ```
 ## Code
-```
+```python
 import matplotlib.pyplot as plt
 
 if __name__ == "__main__":
