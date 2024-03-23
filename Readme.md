@@ -35,7 +35,7 @@ AI/ML/DL/YOLO based Algorithms can be developed for Autamamted Spacecraft/Rover 
     git clone https://github.com/PandiaJason/SPICE-ns-Project.git
     ```
 
-2. Navigate to the ["Outputs"](https://github.com/PandiaJason/SPICE-ns-Project/tree/main/Outputs) directory to access the simulation scripts.
+2. Navigate to the ["SimulationScripts"](https://github.com/PandiaJason/SPICE-ns-Project/tree/main/SimulationScripts) directory to access the simulation scripts.
 
 3. Explore the scripts and data files to understand how the mobility traces are generated and utilized within ns-3 simulations.
 
