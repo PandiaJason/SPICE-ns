@@ -12,7 +12,7 @@ This Python script is designed to visualize the mobility traces of celestial bod
 1. Ensure that you have Python 3.x installed on your system.
 2. Install the required dependencies using pip:
     ```
-    pip install numpy matplotlib
+    pip install matplotlib
     ```
 3. Modify the `spDict` dictionary in the script to specify the celestial bodies you want to visualize along with their corresponding colors.
 4. Run the script using the following command:
