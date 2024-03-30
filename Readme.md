@@ -22,7 +22,7 @@ It is possible to implement the existing as well as new algorithms almost in all
 
 AI/ML/DL/YOLO based Algorithms can be developed for Autamamted Spacecraft/Rover navigation systems.
 
-![image](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/e9054211-02b7-494c-9b0c-0506ba39f957)
+![image](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/2393b78b-4b26-48da-98f7-aff4cca89d6d)
 
 ### 📊 Try Our ns3 Traces of SPICE-ns
 
