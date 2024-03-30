@@ -6,7 +6,7 @@
 - ✅ Developed an Accurate Deep Space Mobility Model under ns3 with SPICE-ns.
 - 🚀 As a first step, we have successfully implemented a mobility model for SPICE-ns and a paper is proposed to be presented at WNS3, Spain 2024.
 
-![image](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/504f278b-dec0-4c00-9e7d-29c11dfa9a32)
+![image](https://github.com/PandiaJason/SPICE-ns-Project/assets/100123063/3d260a63-1d33-4404-bca0-09f35a20f226)
 
 
 ## 📡 About SPICE-ns
